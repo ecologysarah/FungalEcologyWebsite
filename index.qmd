@@ -1,0 +1,24 @@
+---
+title: "Cardiff Fungal Ecology Group"
+
+image: FungalEcologyLogo.png
+
+    
+toc: false
+about: 
+
+  template: jolla
+
+  image-shape: round
+  image-width: 17em
+
+  links:
+    - text: Email us
+      href: mailto:fungalecology@cardiff.ac.uk
+---
+
+Welcome to Fungal Ecology Cardiff, the official website for the internationally-renowned fungi group at Cardiff University. Led by Professor Lynne Boddy and Dr Sarah Christofides, we research many kinds of fungal interactions in the environment. We specialise in tree-associated fungi, particularly wood-decay basidiomycetes. In these pages you can find information on our team, research, and educational activities.
+
+We are based in [Cardiff School of Biosciences](https://www.cardiff.ac.uk/biosciences/) and affiliated to the [Organisms and Environment](https://www.cardiff.ac.uk/biosciences/research/organisms-and-environment) research division.
+
+*Disclaimer: all content on this website represents the views of individual members of the fungi team, and not Cardiff University or the School of Biosciences.*
