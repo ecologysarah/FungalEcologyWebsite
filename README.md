@@ -1,1 +1,1 @@
-[fungalecology.com](fungalecology.com)
+[fungalecology.com](https://fungalecology.com)
