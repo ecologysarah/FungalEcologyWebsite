@@ -3,12 +3,15 @@ project:
   output-dir: docs
   
 website:
-  title: "FungalEcologyWebsite"
+  title: "Cardiff Fungal Ecology Group"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+  site-url: "https://fungalecologycardiff.com"
+  repo-url: "https://github.com/ecologysarah/ FungalEcologyWebsite"
+  repo-actions: [edit, issue]  # Adds edit/issue links
 
 format:
   html:
@@ -17,6 +20,9 @@ format:
       - brand
     css: styles.css
     toc: true
-
-editor: visual
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    
+editor: source
 
