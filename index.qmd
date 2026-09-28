@@ -3,7 +3,6 @@ title: "Cardiff Fungal Ecology Group"
 
 image: FungalEcologyLogo.png
 
-    
 toc: false
 about: 
 

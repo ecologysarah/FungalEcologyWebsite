@@ -9,6 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: SRPproject.qmd
+        text: Find Our Fungi!
+       
   site-url: "https://fungalecologycardiff.com"
   repo-url: "https://github.com/ecologysarah/ FungalEcologyWebsite"
   repo-actions: [edit, issue]  # Adds edit/issue links

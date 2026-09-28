@@ -1,0 +1,20 @@
+---
+title: ""
+
+image: FOFlogo.png
+
+toc: false
+about:
+
+  template: jolla
+
+  image-shape: rectangle
+  image-width: 17em
+
+---
+
+Fungi have often been the Cinderella of conservation: beautiful, hardworking but overlooked. Thankfully, there is a growing awareness that fungi need protection just as much as plants and animals do. We have the privilege to be running a major research programme supplying evidence-based conservation strategies for 12 of Britain's threatened fungi. This is being funded by DEFRA through Natural England as part of the [Species Recovery Programme](https://www.gov.uk/government/publications/species-recovery-programme-projects-awarded-funding-for-2026-to-2029), which focuses on moving conservation forward in the areas identified in the [Threatened Species Recovery Actions](https://publications.naturalengland.org.uk/publication/6106216194113536).
+
+However, we need your help! The very rarity of these fungi makes them hard to find; some have only been recorded 20 times in the last hundred years. If we are to get a good idea of the current population, we will need to recruit as many eyes on the ground (or the tree trunks) as possible. To that end, we are asking people to report sightings of these twelve species via our custom app. To help you get familiar with them, we have produced a handy fold-out leaflet with pictures and key facts about each one.
+
+# Coming soon - the Find Our Fungi app!
