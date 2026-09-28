@@ -13,7 +13,7 @@ website:
         text: Find Our Fungi!
        
   site-url: "https://fungalecologycardiff.com"
-  repo-url: "https://github.com/ecologysarah/ FungalEcologyWebsite"
+  repo-url: "https://github.com/ecologysarah/FungalEcologyWebsite"
   repo-actions: [edit, issue]  # Adds edit/issue links
 
 format:
