@@ -12,7 +12,7 @@ website:
       - href: SRPproject.qmd
         text: Find Our Fungi!
        
-  site-url: "https://fungalecologycardiff.com"
+  site-url: "https://fungalecology.com"
   repo-url: "https://github.com/ecologysarah/FungalEcologyWebsite"
   repo-actions: [edit, issue]  # Adds edit/issue links
 
